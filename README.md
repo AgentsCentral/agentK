@@ -1,2 +1,1 @@
-# agentK
-Kotlin multi-agent development kit
+# agentK - Kotlin Multi Agent Development Kit
